@@ -84,6 +84,7 @@ ul {
 }
 .question button:hover{
     color: var(--Soft-red);
+    cursor: pointer;
 }
 .answer {
     display: none;
